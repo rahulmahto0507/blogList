@@ -1,0 +1,22 @@
+.item-container {
+  list-style-type: none;
+}
+.title-date-container {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #12022f;
+}
+.date {
+  font-family: 'Roboto';
+  font-size: 12px;
+  color: #9aa5b1;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 12px;
+  color: #9aa5b1;
+}
